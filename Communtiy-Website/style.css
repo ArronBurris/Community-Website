@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css?family=Manjari&display=swap');
+
+body {
+    font-family: 'Manjari', sans-serif;
+    margin: 0px;
+}
+
+nav {
+    background-color: #fff;
+    box-shadow: 0px 0px 5px #000;
+    position: sticky;
+    top: 0;
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+    
+}
+
+ul{
+    text-align: center;
+    padding-left: 0;
+}
+
+h1{
+    text-align: center;
+}
+
+/* Arron */
+
+
+
+/* Braydon */
+
+
+
+/* Heather */ 
+
+
+
+/* Kass */

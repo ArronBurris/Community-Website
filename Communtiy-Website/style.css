@@ -3,3 +3,30 @@
 body {
     font-family: 'Manjari', sans-serif;
 }
+
+nav {
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
+}
+
+ul{
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+/* Arron */
+
+
+
+/* Braydon */
+
+
+
+/* Heather */ 
+
+
+
+/* Kass */
